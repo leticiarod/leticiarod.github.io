@@ -1,0 +1,133 @@
+.navbar-brand-logo {
+  font-family: 'Kanit', sans-serif;
+  font-size: 20px;
+  color: black;
+  padding-top: 82px;
+}
+
+.navbar-brand-logo:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.brand-description {
+  padding-left: 23px;
+  margin-left: 20px;
+  border-left: 4px solid #ff4d4d;
+  font-family: Raleway;
+  font-size: 15px;
+  vertical-align: middle;
+}
+
+.navbar-menu-link {
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  font-weight: 500;
+}
+
+/*.navbar-default .navbar-nav .navbar-menu-link {
+  color: black;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+*/
+.project-list-menu {
+  list-style-type: none;
+}
+
+.project-list-menu-item {
+  display: inline-block;
+}
+
+.project-list-menu-item-i {
+    color: black;
+
+
+}
+
+.link-github {
+  padding: 80px 15px;
+  display: block;
+   font-size: 23px;
+}
+
+.link-linkedin {
+padding: 80px 15px;
+display: block;
+ font-size: 23px;
+}
+
+.link-email {
+padding: 80px 0 80px 15px;
+display: block;
+ font-size: 23px;
+}
+
+.cover-container-photo {
+  width: 100%;
+  text-al.ign: center;
+}
+
+.about-me-title {
+  font-size: 180px;
+  font-family: Montserrat, sans-serif;
+  color: black;
+  margin-top: 100px;
+  font-weight: 600;
+}
+
+.about-me-container{
+    padding-top: 120px;
+}
+
+.about-me-description {
+  font-family: Raleway, sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: justify;
+}
+
+.exclamacion {
+  color: #ff4d4d;
+}
+
+.project-title {
+  color: #eee;
+  font-family: Montserrat, sans-serif;
+  font-size: 80px;
+  margin: 120px 0 60px;
+  text-align: center;
+}
+
+.project-list {
+  list-style-type: none;
+  padding-bottom: 145px;
+}
+
+.project-list-item {
+  border-bottom: 1px dashed #ddd;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.project-list-item-name {
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  color: #4C4C4C;
+  font-size: 30px;
+}
+
+.project-list-item-date{
+  color: #4C4C4C;
+  font-weight: 100;
+  font-size: 15px;
+  font-family: Raleway, sans-serif;
+  padding-top: 11px;
+}
+
+.footer {
+  font-family: Raleway, sans-serif;
+  padding-bottom: 40px;
+  color: #ccc;
+}
