@@ -174,4 +174,8 @@ display: block;
   padding-top: 7px;
 }
 
+.footer {
+  font-size: 10px;
+  color: grey;
+}
 }
