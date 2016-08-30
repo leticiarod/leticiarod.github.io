@@ -131,3 +131,39 @@ display: block;
   padding-bottom: 40px;
   color: #ccc;
 }
+
+
+@media screen and (max-width: 767px){
+  .navbar-brand-logo {
+    padding-top: 27px;
+  }
+  .link-github {
+    padding: 20px 15px;
+  }
+
+  .link-linkedin {
+    padding: 20px 15px;
+  }
+
+  .link-email {
+    padding: 25px 0 20px 15px;
+  }
+
+  .about-me-title {
+    text-align: center;
+    font-size: 140px;
+  }
+
+ .about-me-title {
+  margin-top: 50px;
+ }
+ .about-me-container{
+  padding-top: 30px;
+}
+
+.project-title {
+  font-size: 65px;
+  margin: 60px 0 30px;
+}
+
+}
